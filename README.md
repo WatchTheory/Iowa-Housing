@@ -29,7 +29,11 @@ The project is organized into several key components:
 5. **Model Evaluation**: This step involves evaluating the trained model's performance on a holdout dataset using appropriate metrics such as MSE and RMSE. This may also involve visualizing the model's predictions and comparing them to the actual sale prices.
 
 
-## Conclusion
-1. starting around 1904s, houses built in the later years sold more quickly than those built in the 1900s
-2. Since 1950s, rapid growth in remodeling with these houses
-3. Homes built from 1958 and onwards have more modern A/C Systems compared to houses in the 1910s to 1940s, that have natural cooling elements, such as high ceilings and large windows, to move more air around the house.
+## Recommendation 
+- Tear down old homes that have been off the market for more than 8 year
+- Expanding homes and remodeling old house in Neighborhood such as BrkSide, Old Town, IDOTRR, SWISU, and Edwards
+	- Starting with houses that were built between late 1800's to 1910's
+	- include modern appliance like  A/C and Utilities attract buyers 
+
+
+
