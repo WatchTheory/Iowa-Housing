@@ -6,7 +6,7 @@ In Ames, Iowa exploring the Ames Housing dataset
 
 This project aims to analyze and predict housing prices in Ames, Iowa using the Ames Housing dataset. The dataset contains information about various features of houses, such as their size, location, and condition, as well as their sale prices.
 
-The data was provided in a csv file, you can find [here](/)
+The data was provided in a csv file, you can find [here](/data/DataDocumentation.txt)
 
 ## Project Goals
 
